@@ -1,7 +1,8 @@
 # Git Commands for DevOps
 
 Configuration
-Set global username: git config --global user.name "<your username>"
+Set global username 
+git config --global user.name "<your username>"
 Set global email: git config --global user.email "<your email>"
 
 Creating and Navigating Repositories
